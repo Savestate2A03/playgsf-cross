@@ -1,0 +1,16 @@
+# build artifacts
+/build-*
+/staging-*
+/support/build-*
+
+# final binary
+/out-*
+
+# generated autotools artifacts
+/config.h
+/config.log
+/config.status
+/autom4te.cache/
+
+# temp directory stuff
+/test
