@@ -4,7 +4,7 @@ An attempt to visualize GBA/GB music.
 
 A modified version of [Highly Advanced](https://caitsith2.com/gsf/), the `.gsf` input plugin for Winamp, originally by CaitSith2 and Zoopd, which was ported to Linux by [Raphael Assenat](https://projects.raphnet.net/#playgsf), with a visualizer added by [yshui](https://github.com/yshui/playgsf), and modifications to the project structure and build process to target Windows by myself.
 
-![Guess where this piece comes from](https://github.com/yshui/playgsf/raw/master/demo.gif)
+![Demo](https://github.com/Savestate2A03/playgsf-cross/raw/main/demo.gif)
 
 ## Limitations
 
