@@ -1,0 +1,3 @@
+[submodule "support/libao"]
+	path = support/libao
+	url = https://github.com/xiph/libao
