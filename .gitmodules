@@ -1,3 +1,6 @@
 [submodule "support/libao"]
 	path = support/libao
 	url = https://github.com/xiph/libao
+[submodule "support/SDL2"]
+	path = support/SDL2
+	url = https://github.com/libsdl-org/SDL/
